@@ -1,5 +1,3 @@
-# databricks finances pipeline
-
 # Databricks Finance Pipeline
 
 End-to-end data pipeline using real banking stock data, built on Databricks Free Edition.
